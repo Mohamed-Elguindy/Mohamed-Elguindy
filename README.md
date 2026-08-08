@@ -11,7 +11,7 @@
 ### 🧠 About Me
 
 - 🎓 Computer Engineering student at the **Arab Academy for Science and Technology** (2023–2027)
-- ⚙️ Currently building agentic AI systems as an **AI Intern at Elsewedy Electric**, leading the "Industrial AI - Copilot" project
+- ⚙️ Currently building agentic AI systems as an **AI Intern at Nokia**
 - 🐍 Specializing in **Python, FastAPI, and multi-agent LLM pipelines** (LangGraph, DSPy, LlamaIndex)
 - ☕ Also shipping backend systems in **Java / Spring Boot** (Ejada, Suez Canal Bank internships)
 - 📍 Based in Cairo, Egypt
