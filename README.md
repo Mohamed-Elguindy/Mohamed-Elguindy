@@ -11,7 +11,7 @@
 ### 🧠 About Me
 
 - 🎓 Computer Engineering student at the **Arab Academy for Science and Technology** (2023–2027)
-- ⚙️ Currently building agentic AI systems as an **AI Intern at Nokia**
+- ⚙️ Recently completed Software Engineering and AI internship at **CyShield** 
 - 🐍 Specializing in **Python, FastAPI, and multi-agent LLM pipelines** (LangGraph, DSPy, LlamaIndex)
 - ☕ Also shipping backend systems in **Java / Spring Boot** (Ejada, Suez Canal Bank internships)
 - 📍 Based in Cairo, Egypt
@@ -19,6 +19,12 @@
 ---
 
 ### 💼 Experience
+
+**Software Engineering Intern — CyShield** `08/2026 – 09/2026`
+Co-developed a highly scalable, event-driven [webhook delivery platform](https://github.com/ShadowOfDeath25/hooks), making key system design decisions for reliability and fault tolerance. Built core services with Node.js, Fastify, and Docker, integrating Redis and BullMQ for asynchronous job queuing. Engineered robust rate-limiting, HMAC payload signing, and PostgreSQL/Drizzle data persistence within an Agile/Scrum environment.
+
+**AI Engineering Intern — Nokia** `08/2026 – 09/2026`
+Attended intensive sessions focused on Automation and Robotic Process Automation (RPA), gaining foundational knowledge in building and orchestrating automated enterprise workflows.
 
 **AI Intern — Elsewedy Electric** `06/2026 – 08/2026`
 Led development of the "Industrial AI - Copilot," consolidating 10 platform interfaces into one conversational assistant. Built a DSPy-powered Database Agent and a conversational Navigation Agent.
@@ -50,7 +56,7 @@ A GPT-style transformer built from scratch in PyTorch — multi-head self-attent
 
 **AI / LLM:** ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) LangGraph · DSPy · LlamaIndex · Agentic RAG · Prompt Engineering · Transformers
 
-**Backend & DevOps:** ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) REST APIs
+**Backend & DevOps:** ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) Node.js · Fastify · Redis · BullMQ · Drizzle ORM
 
 **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) Postman · Langfuse · Groq · OpenAI
 
